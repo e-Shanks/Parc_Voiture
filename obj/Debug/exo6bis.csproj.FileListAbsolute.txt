@@ -1,0 +1,7 @@
+D:\emeric.daumarie\B2-objet\Chap3_RelationsEntreObjets\exo1\exo6bis\bin\Debug\exo6bis.exe.config
+D:\emeric.daumarie\B2-objet\Chap3_RelationsEntreObjets\exo1\exo6bis\bin\Debug\exo6bis.exe
+D:\emeric.daumarie\B2-objet\Chap3_RelationsEntreObjets\exo1\exo6bis\bin\Debug\exo6bis.pdb
+D:\emeric.daumarie\B2-objet\Chap3_RelationsEntreObjets\exo1\exo6bis\obj\Debug\exo6bis.csprojAssemblyReference.cache
+D:\emeric.daumarie\B2-objet\Chap3_RelationsEntreObjets\exo1\exo6bis\obj\Debug\exo6bis.csproj.CoreCompileInputs.cache
+D:\emeric.daumarie\B2-objet\Chap3_RelationsEntreObjets\exo1\exo6bis\obj\Debug\exo6bis.exe
+D:\emeric.daumarie\B2-objet\Chap3_RelationsEntreObjets\exo1\exo6bis\obj\Debug\exo6bis.pdb
